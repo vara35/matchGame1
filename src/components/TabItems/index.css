@@ -1,0 +1,20 @@
+.tabButton {
+  border: 0;
+  outline: none;
+  background-color: transparent;
+  color: #fec653;
+  font-size: 14px;
+  font-family: 'Roboto';
+  margin-top: 10px;
+  cursor: pointer;
+}
+@media screen and (min-width: 992px) {
+  .tabButton {
+    margin-top: 15px;
+    margin-left: 20px;
+    font-size: 16px;
+  }
+}
+.addColor {
+  border-bottom: #fec653 2px solid;
+}

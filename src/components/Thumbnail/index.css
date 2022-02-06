@@ -1,0 +1,17 @@
+.list {
+  width: 20%;
+  list-style-type: none;
+  margin-left: 8px;
+  margin-top: 10px;
+  background-color: rgb(146, 126, 99);
+}
+@media screen and (min-width: 768px) {
+  .list {
+    width: 15%;
+    margin-left: 8px;
+    margin-top: 10px;
+  }
+}
+.thumbnail-image {
+  width: 100%;
+}
